@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Diff_Probe_Parts")(type "KiCad")(uri "${KIPRJMOD}/Diff_Probe_Parts.pretty")(options "")(descr ""))
+)
