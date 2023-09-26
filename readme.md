@@ -2,7 +2,9 @@
 Basic Diff Probe 
 </h1>
 <p>
-These are the specifications:
+I need a differential probe, but I don't need particularly good specs. I don't need very high bandwidth or voltage. This is my solution. 
+<p>
+Here are some specifications:
 </p>
 <ul>
 <li> Power Supply: 9V Battery </li>
