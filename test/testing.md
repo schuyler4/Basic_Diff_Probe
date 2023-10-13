@@ -11,7 +11,7 @@ And the 10x trace:
 
 ![10x Picture](./10x_accuracy.png)
 
-<b> Analysis: </b> For some reason there was significant distortion and phase shift at frequencies higher than a few hundred Hz in 10x mode. Likewise in 1x with a few hundred kHz. I'm not exactly sure why this is as the bandwidth used should be significantly based on its gain bandwidth product of the op amp. 
+<b> Analysis: </b> For some reason there was significant distortion and phase shift at frequencies higher than a few hundred Hz in 10x mode. Likewise in 1x with a few hundred kHz. I'm not exactly sure why this is as the bandwidth used should be significantly higher based on the gain bandwidth product of the op amp. 
 
 <h3>Floating Voltage Test</h3>
 <p>
