@@ -3,7 +3,7 @@ Basic Diff Probe
 </h1>
 I need a differential probe, but I don't need particularly good specs. I don't need very high bandwidth or voltage. This is my solution. 
 
-![Circuit Picture](./circuit_picture.jpg)
+![Circuit Picture](./circuit_picture.png)
 
 Here are some specifications:
 <ul>
