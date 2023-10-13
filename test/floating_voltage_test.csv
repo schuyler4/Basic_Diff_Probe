@@ -1,2 +1,16 @@
-,
-DMM Voltage(V),Probe Measurement (V)
+10x Positive,,
+DMM Voltage(V),Probe Measurement (V),Error (%)
+5.018,5.01,
+9.99,10.07,
+15.03,15.1,
+20.03,20.1,
+,,
+10x Negative,,
+DMM Voltage(V),Probe Measurement (V),Error (%)
+-20.04,-20.17,
+-14.94,-15.15,
+-10.04,-10.15,
+-5.004,-5.19,
+,,
+1x Positive,,
+DMM Voltage(V),Probe Measurement (V),Error (%)
