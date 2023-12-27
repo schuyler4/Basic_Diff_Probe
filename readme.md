@@ -3,7 +3,7 @@ Basic Diff Probe
 </h1>
 I need a differential probe, but I don't need particularly good specs. I don't need very high bandwidth or voltage. This is my solution. 
 
-There are two revisions. The second revisions is the same circuit board and circuit as the first revision. The only difference is a compensation
+There are two revisions. The second revision is the same circuit board and circuit as the first revision. The only difference is a compensation
 capacitor added in the feedback loop of the split supply buffer to get rid of some oscillation I was seeing.
 ![Circuit Picture](./circuit_picture.png)
 
