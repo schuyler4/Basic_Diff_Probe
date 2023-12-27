@@ -3,6 +3,8 @@ Basic Diff Probe
 </h1>
 I need a differential probe, but I don't need particularly good specs. I don't need very high bandwidth or voltage. This is my solution. 
 
+There are two revisions. The second revisions is the same circuit board and circuit as the first revision. The only difference is a compensation
+capacitor added in the feedback loop of the split supply buffer to get rid of some oscillation I was seeing.
 ![Circuit Picture](./circuit_picture.png)
 
 <h3> Specs </h3>
@@ -27,8 +29,6 @@ Here is an example measurement taken of a sweep from my curve tracer. The purple
 ![Trace](./curve_tracer_sweep.png)
 
 <h3> Possible Improvements </h3>
-<p>
-1. The half supply ground is created with a voltage divider and an op amp buffer. There are small oscillations present in the ground voltage when using this method. Artifacts of these oscillations are present in the output voltage when reading really low voltages.</p>
-<p>
-2. For some reason the bandwidth in 10x mode is very low. I'm not sure why this is. 
+1. For some reason the bandwidth in 10x mode is very low. I'm not sure why this is. 
+2. It is very hard to tell if the which mode the probe is in (10x or 1x) without looking at a known signal.
 </p>
