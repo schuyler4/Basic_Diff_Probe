@@ -29,6 +29,8 @@ Here is an example measurement taken of a sweep from my curve tracer. The purple
 ![Trace](./curve_tracer_sweep.png)
 
 <h3> Possible Improvements </h3>
-1. For some reason the bandwidth in 10x mode is very low. I'm not sure why this is. 
-2. It is very hard to tell if the which mode the probe is in (10x or 1x) without looking at a known signal.
+<ol>
+<li> For some reason the bandwidth in 10x mode is very low. I'm not sure why this is. </li> 
+<li> It is very hard to tell which mode the probe is in (10x or 1x) without looking at a known signal. </li>
+</ol>
 </p>
